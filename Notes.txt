@@ -1,0 +1,2 @@
+Para cargar la tabla 'products' desde la linea de comandos:
+LOAD DATA LOCAL INFILE 'database-fill.dat' INTO TABLE products CHARACTER SET utf8 COLUMS TERMINATED BY';';
